@@ -1,0 +1,12 @@
+﻿  entry.cpp
+C:\Users\saxton\source\repos\example\example\structs.hh(120,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(32,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(33,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\saxton\source\repos\example\example\main.hh(159,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+C:\Users\saxton\source\repos\example\example\main.hh(86): warning C4715: 'actor_loop': not all control paths return a value
+  24 of 894 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example.vcxproj -> C:\Users\saxton\source\repos\example\x64\Release\unreal.dll
